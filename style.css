@@ -1,0 +1,26 @@
+.hero{
+    background: url("./assets/hero.jpg");
+    height: 80vh;
+    background-position: cover;
+}
+
+.card{
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    width: 48%;
+}
+
+
+.cardbg{
+    background: url("./assets/card.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100px;
+
+}
+
+.icon{
+    font-size: 50px;
+    color: rgb(198, 192, 11);
+    margin-left: 20px;
+}
